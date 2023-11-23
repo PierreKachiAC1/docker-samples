@@ -18,7 +18,7 @@ public final class CandidatesUtil {
 	 */
 	public static List<Candidate> getCandidates() {
 		var candidateList = List.of(
-				new Candidate("Pierre", 232732, Set.of("Quantum physics","An incredibly well defined jawline","A very strong hairline","can benchpress 1600 kilograms"));
+				new Candidate("Pierre", 232732, Set.of("Quantum physics","An incredibly well defined jawline","A very strong hairline","can benchpress 1600 kilograms")));
 				
 
 		return candidateList;
